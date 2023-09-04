@@ -27,7 +27,7 @@ class UserHome extends StatelessWidget {
               children: [
                 Text(
                   "Instagram",
-                  style: TextStyle(fontSize: 22, color: Colors.black),
+                  style: TextStyle(fontSize: 25, color: Colors.black),
                 ),
                 Row(
                   children: [
